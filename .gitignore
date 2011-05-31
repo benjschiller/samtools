@@ -2,3 +2,5 @@
 *.o
 .*.swp
 /Debug
+/samtools.exe
+/.project
